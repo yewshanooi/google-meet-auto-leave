@@ -1,0 +1,24 @@
+.extension__body{
+    width: 25rem;
+}
+
+.logo{
+    width: 3.5rem;
+}
+
+.extension__start--button{
+    margin-left: 10rem;
+    background-color: #5f6368;
+}
+
+.extension__gh--icon{
+    width: 1rem;
+}
+
+.extension__gh--button{
+    text-decoration: none;
+}
+
+.modal-header{
+    background-color: #202124;
+}

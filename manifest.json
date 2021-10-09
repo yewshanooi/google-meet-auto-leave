@@ -1,0 +1,17 @@
+{
+    "name": "Google Meet Auto Leave",
+    "description": "Extension to leave meet based on number of people present",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+        "128": "icon_small.png"
+    },
+    "action": {
+        "default_icon": "icon_big.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}
