@@ -39,4 +39,4 @@ This project was forked from Harshith VA's [Meet-Auto-Exit-Bot](https://github.c
 
 ## Contributors
 ###### Developer | Ooi Yew Shan
-[GitHub](https://github.com/yewshanooi/) • [Instagram](https://instagram.com/yewshanooi/) • [Discord](https://discordapp.com/users/266124126584963082/)
+[GitHub](https://github.com/yewshanooi/) • [Discord](https://discordapp.com/users/266124126584963082/)
