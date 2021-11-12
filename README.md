@@ -38,5 +38,5 @@
 This project was forked from Harshith VA's [Meet-Auto-Exit-Bot](https://github.com/harshithva/Meet-Auto-Exit-Bot)
 
 ## Contributors
-###### Developer | Ooi Yew Shan
-[GitHub](https://github.com/yewshanooi/) • [Discord](https://discordapp.com/users/266124126584963082/)
+###### Ooi Yew Shan (JavaRuntime)
+[linktr.ee](https://linktr.ee/javaruntime)
