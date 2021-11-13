@@ -39,4 +39,4 @@ This project was forked from Harshith VA's [Meet-Auto-Exit-Bot](https://github.c
 
 ## Contributors
 ###### Ooi Yew Shan (JavaRuntime)
-[linktr.ee](https://linktr.ee/javaruntime)
+[linktr.ee](https://linktr.ee/yewshanooi)
