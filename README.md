@@ -39,4 +39,3 @@ This project was forked from Harshith VA's [Meet-Auto-Exit-Bot](https://github.c
 
 ## Contributors
 ###### yewshanooi (Java)
-[![linktr.ee](https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=28be7a)](https://linktr.ee/yewshanooi)
