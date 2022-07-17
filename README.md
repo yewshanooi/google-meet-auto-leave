@@ -38,4 +38,4 @@
 This project was forked from Harshith VA's [Meet-Auto-Exit-Bot](https://github.com/harshithva/Meet-Auto-Exit-Bot)
 
 ## Contributors
-###### yewshanooi (Java)
+###### yewshanooi
