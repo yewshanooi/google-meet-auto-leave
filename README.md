@@ -22,20 +22,24 @@
             <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yewshanooi/google-meet-auto-leave?style=flat-square">
         </a>
 </p>
+<br/>
 
 ## How does this extension work?
 - This extension will wait until users in the meet reach your selected value.
 - Once the meet has users greater than selected value it will start the auto leave process in the background.
 - If the users in the meet is less than the selected value, you will leave the meet automatically.
+<br/>
 
 ## Installation
 ###### Guide
 1. Visit chrome://**extensions**
 2. Enable **Developer Mode** at the top right corner of the page
 3. Select the **Load unpacked** button and browse the file directory for the extension folder
+<br/>
 
 ## Original Repository
 This project was forked from Harshith VA's [Meet-Auto-Exit-Bot](https://github.com/harshithva/Meet-Auto-Exit-Bot)
+<br/>
 
 ## Contributors
 - [yewshanooi](https://github.com/yewshanooi)
